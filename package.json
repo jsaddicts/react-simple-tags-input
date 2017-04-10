@@ -1,0 +1,25 @@
+{
+  "name": "react-simple-tags-input",
+  "version": "1.0.0",
+  "description": "A simple react input tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsaddicts/react-simple-tags-input.git"
+  },
+  "keywords": [
+    "react",
+    "tags",
+    "input",
+    "elemental"
+  ],
+  "author": "Manoj Singh Negi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsaddicts/react-simple-tags-input/issues"
+  },
+  "homepage": "https://github.com/jsaddicts/react-simple-tags-input#readme"
+}
